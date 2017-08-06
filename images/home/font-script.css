@@ -1,0 +1,56 @@
+.hida {PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-SIZE: 12px; COLOR: #ffffff; font-weight: bold; LINE-HEIGHT: 25px; FONT-FAMILY: tahoma, Verdana, Arial, sans-serif
+}
+.hida A {	COLOR: #666666; TEXT-DECORATION: none
+}
+.hidaA:hover {	COLOR: #333333; TEXT-DECORATION: none
+}
+
+.hida5 {PADDING-RIGHT: 5px; PADDING-LEFT: 2px; FONT-SIZE: 11px; COLOR: #333333; LINE-HEIGHT: 16px; FONT-FAMILY: tahoma, Verdana, Arial, sans-serif
+}
+.hida5 A { COLOR: #006699; TEXT-DECORATION: underline
+}
+.hida5 A:hover { COLOR: #000000; TEXT-DECORATION: none
+}
+.hida7 {PADDING-RIGHT: 5px; PADDING-LEFT: 2px; FONT-SIZE: 11px; COLOR: #ffff00; LINE-HEIGHT: 16px; FONT-FAMILY: tahoma, Verdana, Arial, sans-serif
+}
+.hida7 A { COLOR: #ffff00; TEXT-DECORATION: none
+}
+.hida7 A:hover { COLOR: #ffff00; TEXT-DECORATION: underline
+}
+
+.hida7a {PADDING-RIGHT: 5px; PADDING-LEFT: 2px; FONT-SIZE: 14px; COLOR: #ffff00; LINE-HEIGHT: 16px; FONT-FAMILY: tahoma, Verdana, Arial, sans-serif
+}
+.hida7a A { COLOR: #ffff00; TEXT-DECORATION: none
+}
+.hida7a A:hover { COLOR: #ffff00; TEXT-DECORATION: underline
+}
+.hida1 {PADDING-RIGHT: 5px; PADDING-LEFT: 2px; FONT-SIZE: 11px; COLOR: #ffffff; LINE-HEIGHT: 16px; FONT-FAMILY: tahoma, Verdana, Arial, sans-serif
+}
+.hida1 A { COLOR: #ffffff; TEXT-DECORATION: underline
+}
+.hida1 A:hover { COLOR: #ffffff; TEXT-DECORATION: none
+}
+.head {PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 11px; COLOR: white; font-weight: bold; LINE-HEIGHT: 25px; FONT-FAMILY: tahoma, Verdana, Arial, sans-serif
+}
+.head A {	COLOR: white; TEXT-DECORATION: none; 
+}
+.head A:hover {	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+.body {PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 10px; COLOR: #908449;  LINE-HEIGHT: 14px; FONT-FAMILY: tahoma, Verdana, Arial, sans-serif
+}
+.body A {	COLOR: #908449;  TEXT-DECORATION: none
+}
+.body A:hover { COLOR: #908449;  TEXT-DECORATION: underline
+}
+.bottom {PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 11px; COLOR: #ffffff; LINE-HEIGHT: 15px; FONT-FAMILY: tahoma, Verdana, Arial, sans-serif
+}
+.bottom A {	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+.bottom A:hover {	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.bottomA {PADDING-RIGHT: 00px; PADDING-LEFT: 00px; FONT-SIZE: 11px; COLOR: #ffffff; LINE-HEIGHT: 15px; FONT-FAMILY: tahoma, Verdana, Arial, sans-serif
+}
+.bottomA A {	COLOR: #333333; TEXT-DECORATION: underline
+}
+.bottomA A:hover {	COLOR: #000000; TEXT-DECORATION: none
+}
